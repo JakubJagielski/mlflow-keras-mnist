@@ -8,3 +8,4 @@ dependencies:
   - tensorflow-gpu
   - pip:
     - mlflow==2.9.1
+    - numpy==1.23.5
